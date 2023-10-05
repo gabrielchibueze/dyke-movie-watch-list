@@ -30,7 +30,8 @@ a {
 
 .find-film {
     font-size: 25px;
-    align-self: center;
+    margin-right: auto;
+    margin-left: auto;
     background-color: rgba(0, 0, 0, 0.801); 
     border-radius: 20px; 
     margin-top: 85px;
